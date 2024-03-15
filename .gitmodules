@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Qtools"]
+	path = Qtools
+	url = https://github.com/cran/Qtools
+[submodule "lqmm"]
+	path = lqmm
+	url = https://github.com/cran/lqmm
+[submodule "nlmm"]
+	path = nlmm
+	url = https://github.com/marco-geraci/nlmm
+[submodule "pawacc"]
+	path = pawacc
+	url = https://github.com/cran/pawacc
