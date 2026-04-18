@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "Qtools"]
 	path = Qtools
-	url = https://github.com/cran/Qtools
+	url = https://github.com/marco-geraci/qtools
 [submodule "lqmm"]
 	path = lqmm
 	url = https://github.com/cran/lqmm
